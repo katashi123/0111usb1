@@ -1,0 +1,7 @@
+a A|壁A
+b B|壁B
+c C|壁C
+d D|壁D
+f F|壁F
+g G|壁G
+Transparent|透明
